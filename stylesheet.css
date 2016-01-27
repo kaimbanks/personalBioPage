@@ -23,6 +23,12 @@ iframe {
 	padding: 10px 20px;
 }
 
+#linkedIn{
+color:white;
+	background-color: grey;
+	padding: 10px 20px;
+}
+
 html{
 	margin: 0 auto;
 	max-width: 900px;
